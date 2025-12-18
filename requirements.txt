@@ -1,0 +1,3 @@
+# No external dependencies needed
+# Uses only Python standard library (string, base64, hashlib)
+# Python 3.6+
